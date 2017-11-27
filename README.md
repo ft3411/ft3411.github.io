@@ -40,7 +40,7 @@ Damit niemand sagt, dass ich da nicht selbst gemacht habe:
 $m = "Powershell Rocks"
 ```
 
-[ ] Nase putzen
+[ ] ~~Nase putzen~~
 [x] Haare waschen
 
 ### Support or Contact
