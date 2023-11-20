@@ -46,5 +46,7 @@ $m = "Powershell Rocks"
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-Das ist Rot #5E5E5E oder?
+
+Das ist Rot `#FF0000` oder?
+
 
